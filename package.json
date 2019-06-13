@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-v-000",
+  "version": "1.0.0",
+  "description": "testing npm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-laws/npm-lab-v-000.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Robert Laws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robert-laws/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/robert-laws/npm-lab-v-000#readme"
+}
