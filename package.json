@@ -22,7 +22,5 @@
     "url": "https://github.com/robert-laws/npm-lab-v-000/issues"
   },
   "homepage": "https://github.com/robert-laws/npm-lab-v-000#readme",
-  "dependencies": {
-    "learn-browser": "^0.1.17"
-  }
+  "dependencies": {}
 }
